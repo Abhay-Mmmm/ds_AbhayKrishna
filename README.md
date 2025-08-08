@@ -23,9 +23,6 @@ Explore the relationship between trader performance and market sentiment (Fear &
 	- Stats: Spearman correlation (sentiment vs per-trade return), Mann–Whitney U (Extreme Fear vs Extreme Greed).
 
 ## Generated artifacts
-- Data
-	- `merged_cleaned_df3.csv` — merged and cleaned trades with sentiment
-	- `daily_summary.csv` — daily aggregates
 - Plots (in `outputs/`)
 	- `avg_pnl_by_sentiment.png`
 	- `avg_volume_by_sentiment.png`
